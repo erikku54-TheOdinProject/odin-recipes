@@ -1,0 +1,15 @@
+
+h1{
+    background-color: aqua;
+    width:fit-content;
+}
+
+div h2{
+
+    color:blue;
+}
+
+ol li{
+    color: green;
+    font-weight: bold;
+}
